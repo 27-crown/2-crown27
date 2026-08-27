@@ -1,0 +1,13 @@
+* text=auto
+
+# 二进制资源
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.woff2 binary
+
+# 前端脚本统一换行
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf

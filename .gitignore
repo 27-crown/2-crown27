@@ -1,0 +1,14 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.log
+*.tmp
+*.bak
+
+# 本地预览不需要提交的目录
+node_modules/
+.vscode/
+.idea/
